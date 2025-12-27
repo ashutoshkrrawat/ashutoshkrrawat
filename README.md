@@ -1,100 +1,94 @@
-# 👋 Hi there, I'm Ashutosh Rawat!
+# Ashutosh Rawat
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%40+NIT+Jamshedpur;Full+Stack+Developer;Competitive+Programming+Enthusiast;Building+%2B+Breaking+%2B+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%40+NIT+Jamshedpur;Full+Stack+Developer;Competitive+Programming+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm an **Electrical Engineering undergraduate** at **NIT Jamshedpur** with a passion for building meaningful software solutions. I thrive at the intersection of hardware and software, constantly exploring new technologies and pushing my boundaries.
+Electrical Engineering undergraduate at NIT Jamshedpur with a strong focus on software development and problem-solving. I specialize in building full-stack web applications and have a deep interest in algorithms, data structures, and system design.
 
 ```javascript
-const ashutosh = {
+const profile = {
     location: "Jamshedpur, India",
-    education: "B.Tech in Electrical Engineering",
-    currentFocus: ["Full Stack Development", "DSA", "Problem Solving"],
-    learning: ["React Ecosystem", "Backend Architecture", "Cloud Services"],
-    communities: ["INNOREVA - Campus IoT Innovation Club"],
-    philosophy: "Learn by doing — break it, build it, iterate it"
+    education: "B.Tech in Electrical Engineering | NIT Jamshedpur",
+    specialization: ["Full Stack Development", "Data Structures & Algorithms"],
+    currentProjects: ["Typing Speed Tracker", "Blog Platform"],
+    technical_focus: ["React Ecosystem", "TypeScript", "Backend Architecture"],
+    organizations: ["INNOREVA - IoT Innovation Club"]
 };
 ```
 
-### 🎯 What I'm Up To
+### Current Work
 
-- 🔨 Building a **typing speed tracker** with real-time analytics
-- 📝 Developing a **full-featured blog platform** using React and Appwrite
-- 💪 Grinding **LeetCode** and **Codeforces** daily
-- 🤖 Exploring **IoT innovations** with INNOREVA
-- 🌱 Deep diving into advanced **React patterns** and **TypeScript**
+- Developing a typing speed tracker with real-time performance analytics
+- Building a full-featured blog platform using React and Appwrite
+- Active competitive programming practice on LeetCode and Codeforces
+- Contributing to IoT innovation projects through INNOREVA
+- Exploring advanced React patterns and TypeScript implementations
 
 ---
 
-## 🛠️ Tech Arsenal
+## Technical Skills
 
-### Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Frontend Development
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies
+### Tools & Platforms
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrrawat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashutoshkrrawat&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrrawat&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrrawat&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashutoshkrrawat&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrrawat&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutoshkrrawat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutoshkrrawat&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
 ---
 
-## 💡 Random Dev Wisdom
+## Connect
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects, discuss tech, or just have a friendly chat about code and innovation!
+Open to collaboration opportunities, technical discussions, and networking with fellow developers and engineers.
 
 <div align="center">
 
@@ -108,12 +102,6 @@ I'm always excited to collaborate on interesting projects, discuss tech, or just
 
 <div align="center">
 
-### 💭 Favorite Quote
-*"The only way to do great work is to love what you do."* - Steve Jobs
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ashutoshkrrawat&color=blueviolet&style=for-the-badge)
-
-⭐️ From [ashutoshkrrawat](https://github.com/ashutoshkrrawat)
+![Profile Views](https://komarev.com/ghpvc/?username=ashutoshkrrawat&color=blue&style=for-the-badge)
 
 </div>
