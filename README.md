@@ -1,21 +1,119 @@
-# 💫 About Me:
-👋 Hi, I’m Ashutosh Rawat, an Electrical Engineering undergrad at NIT Jamshedpur.<br>💻 Passionate about Web Development, DSA, and building real-world projects.<br>🌐 Exploring full-stack tech like React, Tailwind CSS, and Appwrite.<br>📚 Learning by doing — breaking, building, and iterating code.<br>🛠️ Currently working on a typing speed tracker and a blog platform.<br>🎯 Sharpening problem-solving skills on LeetCode and Codeforces.<br>🔧 Member of INNOREVA, our campus IoT innovation club.<br>🚀 Always up for creative challenges and learning something new.
+# 👋 Hi there, I'm Ashutosh Rawat!
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Electrical+Engineering+%40+NIT+Jamshedpur;Full+Stack+Developer;Competitive+Programming+Enthusiast;Building+%2B+Breaking+%2B+Learning)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-rawat-138a88345) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ashutosh_rawat5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshjee2024@gmail.com) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashutoshkrrawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashutoshkrrawat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrrawat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashutoshkrrawat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🚀 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm an **Electrical Engineering undergraduate** at **NIT Jamshedpur** with a passion for building meaningful software solutions. I thrive at the intersection of hardware and software, constantly exploring new technologies and pushing my boundaries.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```javascript
+const ashutosh = {
+    location: "Jamshedpur, India",
+    education: "B.Tech in Electrical Engineering",
+    currentFocus: ["Full Stack Development", "DSA", "Problem Solving"],
+    learning: ["React Ecosystem", "Backend Architecture", "Cloud Services"],
+    communities: ["INNOREVA - Campus IoT Innovation Club"],
+    philosophy: "Learn by doing — break it, build it, iterate it"
+};
+```
+
+### 🎯 What I'm Up To
+
+- 🔨 Building a **typing speed tracker** with real-time analytics
+- 📝 Developing a **full-featured blog platform** using React and Appwrite
+- 💪 Grinding **LeetCode** and **Codeforces** daily
+- 🤖 Exploring **IoT innovations** with INNOREVA
+- 🌱 Deep diving into advanced **React patterns** and **TypeScript**
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Technologies
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshkrrawat&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ashutoshkrrawat&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkrrawat&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ashutoshkrrawat&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects, discuss tech, or just have a friendly chat about code and innovation!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-kumar-rawat-138a88345)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Ashutosh_rawat5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshjee2024@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Favorite Quote
+*"The only way to do great work is to love what you do."* - Steve Jobs
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=ashutoshkrrawat&color=blueviolet&style=for-the-badge)
+
+⭐️ From [ashutoshkrrawat](https://github.com/ashutoshkrrawat)
+
+</div>
